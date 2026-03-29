@@ -1,0 +1,5 @@
+{
+  "name": "CHERRY REBEL",
+  "description": "A premium, bold, and slightly rebellious beverage brand for Gen Z and Millennials.",
+  "requestFramePermissions": ["geolocation"]
+}
